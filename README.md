@@ -1,9 +1,9 @@
-# Kaggle_HomeDepotSearchRelevance
+# Kaggle Home Depot Search Relevance
 Prediction of search similarity score measure using Linear Regression Model on Home Depot Products, data provided by Kaggle
 
 # Features:
-	The features are the attributes of a particular product. 
-	The attributes of high frequencies are ‘brand’,’material’,’dimension’,’color’,’bullets’,’product height’,’product weight’, ’width’, title and description
+The features are the attributes of a particular product. 
+The attributes of high frequencies are ‘brand’,’material’,’dimension’,’color’,’bullets’,’product height’,’product weight’, ’width’, title and description
 # Stem:
 The description of a product is stemmed and the stop words are removed. The same is done for all the features of a product.
 
